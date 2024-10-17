@@ -39,4 +39,4 @@ I primarily keep all of my projects private.
 
 ## 📈 GitHub Stats
 ![BisocM's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BisocM&show_icons=true&theme=radical)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BisocM&theme=radical)](https://git.io/streak-stats)w
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BisocM&theme=radical)](https://git.io/streak-stats)
