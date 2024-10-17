@@ -13,7 +13,6 @@ I primarily keep all of my projects private.
 - **Special Interests**: Reverse Engineering, Cross-language Integrations, Systems Programming
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BisocM&layout=compact&theme=radical)
-
 ---
 
 ## ☁️ Cloud & Networking Expertise
@@ -40,3 +39,4 @@ I primarily keep all of my projects private.
 
 ## 📈 GitHub Stats
 ![BisocM's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BisocM&show_icons=true&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BisocM&theme=radical)](https://git.io/streak-stats)w
