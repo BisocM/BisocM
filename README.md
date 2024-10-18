@@ -12,7 +12,7 @@ I primarily keep all of my projects private.
 - **Experienced with**: Java, JavaScript, Visual Basic
 - **Special Interests**: Reverse Engineering, Cross-language Integrations, Systems Programming
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BisocM&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BisocM&theme=radical)
 ---
 
 ## ☁️ Cloud & Networking Expertise
