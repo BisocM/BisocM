@@ -1,6 +1,6 @@
 # 👋 Hello, I'm **BisocM**
 
-I'm a passionate **software engineer** specializing in **systems programming** and **reverse engineering**. With a strong foundation in low-level programming and a keen interest in high-performance computing, I strive to build efficient and robust systems.
+I'm a **software engineer** specializing in **systems programming** and **reverse engineering**.
 
 My expertise spans across:
 
