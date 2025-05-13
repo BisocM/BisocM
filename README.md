@@ -35,7 +35,16 @@ While I primarily keep all of my projects private, I'm always eager to collabora
   ![Visual Basic Badge](https://img.shields.io/badge/Visual%20Basic-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bisocm&layout=compact&theme=radical" alt="Top Languages" />
+  <img
+    src="https://stats.bisocm.org/top-langs?username=BisocM&layout=compact&theme=radical"
+    alt="Top Languages"
+    width="300"
+  />
+  <img
+    src="https://stats.bisocm.org/?username=BisocM&show_icons=true&theme=radical"
+    alt="BisocM's GitHub Stats"
+    width="400"
+  />
 </p>
 
 - **Special Interests:**
@@ -92,10 +101,3 @@ While I primarily keep all of my projects private, I'm always eager to collabora
 </p>
 
 ---
-
-## 📈 **GitHub Stats**
-
-<p align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=BisocM&show_icons=true&theme=radical" alt="BisocM's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=BisocM&theme=radical" alt="GitHub Streak" />
-</p>
