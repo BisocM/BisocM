@@ -36,12 +36,12 @@ While I primarily keep all of my projects private, I'm always eager to collabora
 
 <p>
   <img
-    src="https://stats.bisocm.org/top-langs?username=BisocM&layout=compact&theme=radical&v=20250513"
+    src="https://stats.bisocm.org/top-langs?username=BisocM&layout=compact&theme=radical&v=20250621"
     alt="Top Languages"
     width="300"
   />
   <img
-    src="https://stats.bisocm.org/?username=BisocM&show_icons=true&theme=radical"
+    src="https://stats.bisocm.org/?username=BisocM&show_icons=true&theme=radical&v=20250621"
     alt="BisocM's GitHub Stats"
     width="400"
   />
