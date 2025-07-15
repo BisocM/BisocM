@@ -36,7 +36,7 @@ While I primarily keep all of my projects private, I'm always eager to collabora
 
 <p>
   <img
-    src="https://stats.bisocm.org/top-langs?username=BisocM&layout=compact&theme=radical&v=20250622"
+    src="https://stats.bisocm.org/top-langs?username=BisocM&layout=compact&theme=radical&v=20250715"
     alt="Top Languages"
     width="300"
   />
