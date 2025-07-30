@@ -15,18 +15,10 @@ While I primarily keep all of my projects private, I'm always eager to collabora
 
 ## 💻 **Core Skills**
 
-- **Expert in:**
-
   ![C# Badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-
-- **Advanced in:**
-
   ![C Badge](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
   ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![Assembly Badge](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=flash&logoColor=white)
-
-- **Experienced with:**
-
   ![Rust Badge](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
   ![Java Badge](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
   ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
