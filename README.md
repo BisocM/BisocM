@@ -48,38 +48,6 @@ While I primarily keep all of my projects private, I'm always eager to collabora
 
 ---
 
-## ☁️ **Cloud & Networking Expertise**
-
-- **Infrastructure Setup:**
-
-  - Virtual Private Subnets
-  - Network Address Translation (NAT)
-  - VPLAN, AiMesh & DynDns Configurations
-  - Network Deployment
-
-- **Cloud Platforms:**
-
-  ![Google Cloud Badge](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-  ![Microsoft Azure Badge](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-
-- **Containerization & Orchestration:**
-
-  ![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-  ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-## 🗄️ **Database Management**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite Badge" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge" />
-</p>
-
----
-
 ## 🔍 **Reverse Engineering Tools**
 
 <p align="center">
