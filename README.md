@@ -1,18 +1,3 @@
-# 👋 Hello, I'm **BisocM**
-
-I'm a **software engineer** specializing in **systems programming** and **reverse engineering**.
-
-My expertise spans across:
-
-- **Low-level Programming**
-- **Cloud Infrastructure**
-- **Database Management**
-- **High-performance and Cross-language Code**
-
-While I primarily keep all of my projects private, I'm always eager to collaborate and discuss innovative ideas.
-
----
-
 ## 💻 **Core Skills**
 
   ![C# Badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -38,13 +23,6 @@ While I primarily keep all of my projects private, I'm always eager to collabora
     width="400"
   />
 </p>
-
-- **Special Interests:**
-
-  - Reverse Engineering
-  - Cross-language Integrations
-  - Systems Programming
-  - Cryptography
 
 ---
 
